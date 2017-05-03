@@ -1,5 +1,5 @@
-# Homework 2
-Kenneth Chiguichon
-109867025
+A command line utility for converting between files between UTF formats on Unix/Linux/SunOS systems.
 
-GRACE DAYS = 1
+Supports UTF-8, UTF-16-BE, UTF-16-LE. 
+
+Optimized for handling large files.
