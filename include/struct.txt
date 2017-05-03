@@ -1,0 +1,7 @@
+static struct option long_options[] = {
+		{"help", no_argument, 0, 'h'},
+		{"h", no_argument, 0, 'h'},
+		{"u", required_argument, 0, 'u'},
+		{"UTF", required_argument,0,'U'},
+		{0, 0, 0, 0}
+};
